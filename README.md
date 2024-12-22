@@ -1,6 +1,8 @@
 
 # Thief Guild FM Plot
 
+Site available at https://leon16c.github.io/thief-fm-plotter
+
 A tiny side project I did because I've recently gotten into Thief FMs and I like rating visualization despite having absolutely no background whatsoever in statistics and data science. This is something I generate and update manually, not a tool where you can enter names to visualize them, sorry.
 
 If you would like to see names added or have any other ideas, feel free to [contact me on Thief Guild](https://www.thiefguild.com/user/5758/chilling).
